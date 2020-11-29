@@ -1,0 +1,147 @@
+
+footer {
+    margin-top: 30px;
+}
+
+iframe {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: white;
+}
+
+.gpx-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.gpx-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 25px;
+}
+
+.gpx-container {
+    width: 50%;
+}
+
+.warm-welcome {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.killing-floor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.speaking-trees {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.black-bile {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.pdf-container {
+    height: 500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: row;
+}
+
+.gpx-container {
+    height: 500px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: row;
+}
+
+
+svg {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+
+img:hover {
+    opacity: 0.75;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.25rem
+}
+
+body::-webkit-scrollbar {
+    width: 0.25rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: black;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: white;
+}
+
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background: url(Background.jpg) center center fixed no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    display: inline-flex;
+    justify-content: center;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+}
